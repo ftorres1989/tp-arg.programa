@@ -11,6 +11,8 @@ fetch("./database.json")
         <h3>${producto.cuotas}</h3>
         <p>${producto.procesador}</p>
         <h4>${producto.name} -<br> ${producto.modelo}</h4>
+        <button>Comprar</button>
+
 
        
     </div>        `
