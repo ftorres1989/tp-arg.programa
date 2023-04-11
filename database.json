@@ -1,0 +1,126 @@
+[
+    {
+        "name": "Samsung",
+        "price": 145000,
+        "modelo": "Galaxy a53 ",
+        "cuotas": "12 cuotas sin interes ",
+        "camara":"4 cámaras traseras de 64Mpx/12Mpx/5Mpx/5Mpx.",
+        "procesador":"Procesador Exynos 1280 Octa-Core de 2.4GHz con 6GB de RAM",
+        "bateria":"Batería de 5000mAh.",
+        "memoriainterna":"Memoria interna de 128GB.",
+        "resistente":"Resistente al agua",
+        "imagen":"https://masonlineprod.vtexassets.com/arquivos/ids/231278-800-auto?v=637859577823830000&width=800&height=auto&aspect=true"
+
+
+    },
+    {
+        "name": "Samsung",
+        "price": 91000,
+        "modelo": "Galaxy A22 ",
+        "cuotas": "12 cuotas sin interes ",
+        "patalla": "Pantalla TFT de 6.6 ",
+        "camara":"3 cámaras traseras de 48Mpx/5Mpx/2Mpx.",
+        "procesador":"Procesador MediaTek MT6833 Dimensity 700 Octa-Core de 2.2GHz con 4GB de RAM.",
+        "bateria":"Batería de 5000mAh.",
+        "memoriainterna":"Memoria interna de 128GB.",
+        "resistente":"No Resistente al agua",
+        "imagen":"https://cdn.shopify.com/s/files/1/0288/1578/6044/products/4_zu_3_Samsung_Galaxy_A22_5G_800x.jpg?v=1668361796"
+
+    },
+    {
+        "name": "Samsung",
+        "price": 107000,
+        "modelo": "Galaxy M23 ",
+        "cuotas": "12 cuotas sin interes ",
+        "patalla": "Pantalla TFT de 6.6 ",
+        "camara":" 3 cámaras traseras de 50Mpx/8Mpx/2Mpx.",
+        "procesador":"Procesador Snapdragon 750G 5G Octa-Core de 2.2GHz con 4GB de RAM.",
+        "bateria":"Batería de 5000mAh.",
+        "memoriainterna":"Memoria interna de 128GB",
+        "resistente":"Resistente al agua",
+        "imagen":"https://masonlineprod.vtexassets.com/arquivos/ids/249234/Samsung-Galaxy-M23-Celeste-128-4gb-6-6-1-33522.jpg?v=637898133818000000"
+    },
+    {
+        "name": "Apple",
+        "price": 465000,
+        "modelo": "iPhone 14 ",
+        "patalla": " Pantalla Super Retina XDR de 6.1 pulgadas.",
+        "cuotas": "12 cuotas sin interes ",
+        "camara":"Modo Cine ahora en 4K Dolby Vision de hasta 30cps.",
+        "procesador":"Procesador A15 Bionic, con GPU e 5 núcleos para un rendimiento fuera de serie. Red 5G ultrarrápida.",
+        "bateria":"Batería para todo el día y hasta 26 horas de reproducción de vídeo.",
+        "memoriainterna":"6 GB.",
+        "resistente":"Resistente al agua",
+        "imagen":"https://cdn.shopify.com/s/files/1/0632/7880/9324/products/IMG-7379940_823x.jpg?v=1678469580"
+    },
+    {
+        "name": "Apple",
+        "price": 375000,
+        "modelo": "iPhone 12 ",
+        "cuotas": "12 cuotas sin interes ",
+        "patalla": "Pantalla Super Retina XDR de 6.1 pulgadas.",
+        "camara":" Sistema avanzado de dos cámaras de 12 MP (ultra gran angular y gran angular), modo Noche, Deep Fusion, HDR",
+        "procesador":"Chip A14 Bionic, el más rápido en un smartphone.",
+        "bateria":"Batería mini: 2.227 mAh",
+        "memoriainterna":"6 GB.",
+        "resistente":"Resistente al agua",
+        "imagen":"https://webshop.bitlab.rs/files/products/img/0100744_apple-iphone-12-pro-max-128gb-gold.jpeg"
+        
+    },
+    {
+        "name": "Xiaomi",
+        "price": 114000,
+        "modelo": "Redmi Note 11S ",
+        "cuotas": "12 cuotas sin interes ",
+        "patalla": "Pantalla AMOLED de 6.43 ",
+        "camara":"Tiene 4 cámaras traseras de 108Mpx/8Mpx/2Mpx/2Mpx.",
+        "procesador":" Procesador MediaTek Helio G96 Octa-Core de 2.05GHz con 6GB de RAM.",
+        "bateria":"Batería de 5000mAh.",
+        "memoriainterna":"Memoria interna de 128GB",
+        "resistente":"Resistente al polvo.",
+        "imagen":"https://masonlineprod.vtexassets.com/arquivos/ids/256556-800-auto?v=637967901808130000&width=800&height=auto&aspect=true"
+    },
+    {
+        "name": "Xiaomi",
+        "price": 110000,
+        "modelo": "Redmi Note 12 Pro ",
+        "cuotas": "12 cuotas sin interes ",
+        "patalla": "Pantalla AMOLED de 6.28 ",
+        "camara":"Tiene 3 cámaras traseras de 50Mpx/13Mpx/5Mpx.",
+        "procesador":"Procesador Snapdragon 8 Gen 1 Octa-Core de 3GHz con 8GB de RAM.",
+        "bateria":"Batería de 4500mAh con carga inalámbrica.",
+        "memoriainterna":"Batería de 5000mAh.",
+        "resistente":"Resistente al agua",
+        "imagen":"https://cdn.shopify.com/s/files/1/0475/9801/0534/products/12pronegro.jpg?v=1664380430&width=1445"
+        
+        
+    },
+    {
+        "name": "Motorola",
+        "price": 140000,
+        "modelo": "Edge 30 Neo ",
+        "cuotas": "12 cuotas sin interes ",
+        "patalla": "Pantalla POLED de 6.28 ",
+        "camara":"Tiene 2 cámaras traseras de 64Mpx/13Mpx.",
+        "procesador":"Procesador Snapdragon 695 5G Octa-Core de 2.2GHz con 8GB de RAM.",
+        "bateria":"Batería de 4020mAh con carga inalámbrica.",
+        "memoriainterna":"Batería de 5000mAh.",
+        "resistente":"Resistente a las salpicaduras.",
+        "imagen":"https://exitocol.vtexassets.com/arquivos/ids/16831683-800-auto?v=638139885617870000&width=800&height=auto&aspect=true"
+        
+        
+    },
+    {
+        "name": "Motorola",
+        "price": 220000,
+        "modelo": "Edge 20 Lite ",
+        "cuotas": "12 cuotas sin interes ",
+        "patalla": "Pantalla OLED de 6.7",
+        "camara":"Tiene 3 cámaras traseras de 108Mpx/8Mpx/2Mpx.",
+        "procesador":"Procesador MediaTek Dimensity 720 Octa-Core de 2GHz con 6GB de RAM.",
+        "bateria":"Batería de 4020mAh con carga inalámbrica.",
+        "memoriainterna":"Batería de 5000mAh.",
+        "resistente":"Con reconocimiento facial y sensor de huella dactilar.",
+        "imagen":"https://motorolapy.vtexassets.com/arquivos/ids/155725-800-auto?v=637697442160800000&width=800&height=auto&aspect=true"
+    }
+]
